@@ -135,7 +135,8 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-<img width="677" height="178" alt="image" src="https://github.com/user-attachments/assets/c04d5cc8-d5d1-457a-91f2-a3bc6ef4a272" />
+<img width="717" height="180" alt="image" src="https://github.com/user-attachments/assets/de8edb0b-70e9-49a5-acd9-cd0158f4b108" />
+
 
 <hr>
 <h3>Result:</h3>
